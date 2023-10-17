@@ -1,0 +1,13 @@
+
+body{
+    height: 100vh;
+    background-image: url(./img/starfield-intothestarfield-wallpaper-1280x720-01.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction:column;
+}
+
+.descricao p{
+color: #fff;
+}
